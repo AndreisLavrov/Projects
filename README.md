@@ -5,3 +5,4 @@ Actual links for preview projects
 2. credit_card_design - "https://cardlavrov.netlify.app"
 3. parallax_scrolling_website - "https://parallaxmoon.netlify.app"
 4. profile_card - "https://andreislavrov.netlify.app"
+5. Bot_Password_Generator - https://t.me/HelperFoxes_bot
